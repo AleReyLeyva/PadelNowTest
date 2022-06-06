@@ -1,0 +1,17 @@
+.Jugadores{
+    display: flex;
+    flex-direction: row;
+
+    gap: 5%;
+
+    width: 90%;
+    margin: 20px auto;
+}
+
+.JugadoresGenero{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    width: 100%;
+    gap: 20px;
+}
